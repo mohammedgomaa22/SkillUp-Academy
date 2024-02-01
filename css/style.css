@@ -30,7 +30,7 @@ html {
 }
 /* ----------------- */
 header {
-    height: calc(100Vh - 70px);
+    min-height: calc(100Vh - 70px);
 }
 
 /* ********** Start Animation ********** */
